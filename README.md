@@ -1,3 +1,5 @@
+#The current Automation Layer doesn't work correctly. Next step is to test diffent versions on the Lambda CI docker container.
+
 This project will explore how we can automate business processes using Selenium. Obviously writing an API to perform these tasks would be a more sensible option but development time is expensive.
 
 When complete this project will demonstrate the automation of a process in Selenium along with leveraging AWS to scale this process using Lambda.
